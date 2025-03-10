@@ -9,7 +9,7 @@ public class Java_Comments {
         hi
         hi
          */
-        System.out.println("GIT CHECK");
+        System.out.println("GIT");
     }
 
 }
